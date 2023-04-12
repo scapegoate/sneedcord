@@ -1,1 +1,3 @@
+var upload = function(legacy){
 
+}
